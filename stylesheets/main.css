@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  background-color: maroon;
+  color: white;
+  font-weight: bold;
+  font-size: 30;
+  padding: 25px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 24;
+  padding: 10px 0px;
+}
+
+ul {
+  overflow: hidden;
+  background-color: hsl(0, 0%, 24%);
+  color: white;
+  padding: 10px;
+}
+
+li {
+  float: right;
+  text-align: center;
+  padding: 10px;
+  text-decoration: underline;
+}
+
+main {
+  width: 1000;
+  margin: 25px;
+}
+
+footer {
+  background-color: hsl(0, 0%, 24%);
+  color: white;
+  padding: 10px;
+}
+
+aside {
+  float:right;
+}
