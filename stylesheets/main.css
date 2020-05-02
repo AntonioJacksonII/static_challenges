@@ -16,6 +16,12 @@ h2 {
   padding: 10px 0px;
 }
 
+h3 {
+  font-weight: bold;
+  font-size: 20;
+  padding: 10px 0px;
+}
+
 ul {
   overflow: hidden;
   background-color: hsl(0, 0%, 24%);
@@ -43,4 +49,6 @@ footer {
 
 aside {
   float:right;
+  padding-right: 30px;
+  padding-top: 18px;
 }
